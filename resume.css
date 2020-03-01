@@ -1,0 +1,47 @@
+.container {
+  font-size: 14px;
+}
+
+.container ul {
+  padding: 0;
+  margin: 0;
+}
+
+.container li {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#personal-info {
+  text-align: center;
+}
+
+#name {
+  font-weight: bold;
+  font-size: 150%;
+}
+
+.section {
+  margin-top: 10px;
+}
+
+.content {
+  margin-bottom: 10px;
+}
+
+#programming_skills, #ucla {
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 120%;
+}
+
+.university-name, .skill-type, .company-name {
+  font-weight: bold;
+}
+
+.university-details-right, .company-location, .datespan {
+  text-align: right;
+}
